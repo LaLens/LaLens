@@ -15,7 +15,7 @@ a new [Web Developer] passionate about [A detail-oriented with proven analytical
 -  🖥️ **[Project Name](project-link)**: 
 - 📱 **[Project Name](project-link)**:
 
-You can check out more on my [repositories page](https://github.com/YourUsername?tab=repositories).
+You can check out more on my [repositories page](https://github.com/LaLens?tab=repositories).
 
 
 ## 📫 How to Reach Me
